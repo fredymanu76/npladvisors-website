@@ -1,0 +1,14 @@
+.themify_builder_689_row.module_row_0.module_row{background-image: url("https://www.npladvisors.com/wp-content/uploads/2016/11/NPL-Advisors-About-Us-Biographies.jpg"); background-repeat: repeat; background-attachment: scroll; background-position: center center; text-align: center; padding-top:240px; padding-bottom:140px; }
+.themify_builder_689_row.module_row_0.module_row>.builder_row_cover::before{background-image:-webkit-linear-gradient(180deg,rgb(51, 51, 51) 0%,rgba(51, 51, 51, 0.901961) 27%,rgba(82, 255, 238, 0.65098) 28%,rgba(96, 33, 255, 0.592157) 100%);
+background-image:-o-linear-gradient(180deg,rgb(51, 51, 51) 0%,rgba(51, 51, 51, 0.901961) 27%,rgba(82, 255, 238, 0.65098) 28%,rgba(96, 33, 255, 0.592157) 100%);
+background-image:linear-gradient(180deg,rgb(51, 51, 51) 0%,rgba(51, 51, 51, 0.901961) 27%,rgba(82, 255, 238, 0.65098) 28%,rgba(96, 33, 255, 0.592157) 100%);
+}
+.themify_builder_689_row.module_row_0.module_row>div.row_inner{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
+.themify_builder_689_row.module_row_0.module_row,.themify_builder_689_row.module_row_0 h1,.themify_builder_689_row.module_row_0 h2,.themify_builder_689_row.module_row_0 h3:not(.module-title),.themify_builder_689_row.module_row_0 h4,.themify_builder_689_row.module_row_0 h5,.themify_builder_689_row.module_row_0 h6{color:#ffffff; }
+@media screen and (max-width: 480px) {.themify_builder_689_row.module_row_0.module_row{padding-top:25%; padding-bottom:18%; }
+}
+.module_row_0 .module_column_0.tb_689_column.module_column{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
+.module_row_0 .module_column_0.tb_689_column.module_column>div.tb-column-inner,.module_row_0 .module_column_0.tb_689_column.module_column>.tb_holder{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
+.themify_builder_689_row.module_row_1.module_row{padding-top:4%; padding-bottom:4%; }
+.themify_builder .text-689-1-0-0.module-text{background-repeat: repeat; background-position: left top; padding-right:15%; }
+.themify_builder_689_row.module_row_2.module_row{padding-bottom:120px; }
